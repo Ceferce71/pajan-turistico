@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new 0 0 579.997 579.997"
+   height="579.997"
+   viewBox="0 0 579.997 579.997"
+   width="579.997"
+   version="1.1"
+   id="svg23"
+   sodipodi:docname="hospital_basico.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs27" />
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.3931106"
+     inkscape:cx="289.6396"
+     inkscape:cy="289.9985"
+     inkscape:window-width="1920"
+     inkscape:window-height="1046"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23" />
+  <path
+     d="m26.929 29.26v521.476h526.138v-521.476zm497.493 492.831h-468.847v-464.185h468.848v464.185z"
+     fill="param(fill) #000"
+     fill-opacity="255"
+     stroke="param(outline) #FFF"
+     stroke-opacity="255"
+     stroke-width="param(outline-width) 0"
+     id="path19"
+     style="fill:#ff0000" />
+  <path
+     d="m214.31 486.524h151.377v-118.358h114.478v-156.334h-114.478v-118.359h-151.377v118.359h-114.48v156.334h114.48z"
+     fill="param(fill) #000"
+     fill-opacity="255"
+     stroke="param(outline) #FFF"
+     stroke-opacity="255"
+     stroke-width="param(outline-width) 0"
+     id="path21"
+     style="fill:#ff0000" />
+</svg>
